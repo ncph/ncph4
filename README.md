@@ -29,5 +29,5 @@ ncph3 was the first iteration which brought the clips to the web, and pioneered
 the idea of a web viewer with global synchronization and clip randomization.
 The clips from ncph2 were used and several more were added.
 
-ncph4 added the ncph(7) configuration language to allow easier generation and
-testing of new clips.
+ncph4 added the ncphclips(7) language to allow easier declaration of new clips for
+code generation and testing.
