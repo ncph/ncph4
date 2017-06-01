@@ -1,3 +1,7 @@
+# All code has been dedicated to the public domain by the authors. Anyone is
+# free to copy, modify, publish, use, compile, sell or distribute this file
+# for any purpose, commercial or non-commerical, and by any means.
+
 film bestoftimes 1981 {
 	clip speech volume 80
 }
