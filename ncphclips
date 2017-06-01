@@ -1,5 +1,5 @@
 film bestoftimes 1981 {
-	clip speech audio level 80
+	clip speech volume 80
 }
 
 film fasttimes 1982 {
@@ -27,7 +27,7 @@ film boyinblue 1986 {
 }
 
 film peggysue 1986 {
-	clip sing audio level 80
+	clip sing volume 80
 }
 
 film raising 1987 {
@@ -35,10 +35,10 @@ film raising 1987 {
 }
 
 film moonstruck 1987 {
-	clip bread audio level 160
-	clip opera audio level 160
-	clip ring audio level 160
-	clip wolf audio level 160
+	clip bread volume 160
+	clip opera volume 160
+	clip ring volume 160
+	clip wolf volume 160
 }
 
 film vk 1988 {
@@ -52,11 +52,11 @@ film nevertuesday 1988 {
 }
 
 film timetokill 1989 {
-	clip croc audio level 130
+	clip croc volume 130
 }
 
 film wildheart 1990 {
-	clip sing audio level 80
+	clip sing volume 80
 	clip oz
 }
 
@@ -65,7 +65,7 @@ film firebirds 1990 {
 }
 
 film zandalee 1991 {
-	clip black audio level 90
+	clip black volume 90
 	clip inevitable
 }
 
@@ -151,7 +151,7 @@ film xmascarol 2001 {
 }
 
 film windtalkers 2002 {
-	clip mess audio level 150
+	clip mess volume 150
 }
 
 film sonny 2002 {
@@ -176,22 +176,22 @@ film lordofwar 2005 {
 }
 
 film weatherman 2005 {
-	clip archer audio level 130
-	clip fastfood audio level 130
-	clip frosty audio level 130
+	clip archer volume 130
+	clip fastfood volume 130
+	clip frosty volume 130
 }
 
 film antbully 2006 {
 }
 
 film wtc 2006 {
-	clip pregnant audio level 140
+	clip pregnant volume 140
 }
 
 film wicker 2006 {
-	clip burned audio level 90
-	clip dronemustdie audio level 80
-	clip notthebees audio level 80
+	clip burned volume 90
+	clip dronemustdie volume 80
+	clip notthebees volume 80
 }
 
 film ghostrider 2007 {
@@ -200,23 +200,23 @@ film ghostrider 2007 {
 }
 
 film next 2007 {
-	clip incoming audio level 120
+	clip incoming volume 120
 }
 
 film nattres2 2007 {
 	clip haggis
-	clip resolute audio level 110
-	clip secret audio level 120
+	clip resolute volume 110
+	clip secret volume 120
 }
 
 film bangkok 2008 {
 	clip boats
 	clip date
-	clip water audio level 80
+	clip water volume 80
 }
 
 film knowing 2009 {
-	clip shithappens audio level 140
+	clip shithappens volume 140
 }
 
 film gforce 2009 {
@@ -234,18 +234,18 @@ film kickass 2010 {
 }
 
 film sorcerer 2010 {
-	clip duck audio level 120
+	clip duck volume 120
 }
 
 film season 2011 {
-	clip death audio level 130
+	clip death volume 130
 	clip fight
-	clip dream audio level 120
-	clip god audio level 110
+	clip dream volume 120
+	clip god volume 110
 }
 
 film driveangry 2011 {
-	clip disrobe audio level 70
+	clip disrobe volume 70
 }
 
 film seekingjustice 2011 {
@@ -290,7 +290,7 @@ film paytheghost 2015 {
 }
 
 film trust 2016 {
-	clip open audio level 120
+	clip open volume 120
 }
 
 film dogeatdog 2016 {
